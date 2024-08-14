@@ -5,10 +5,10 @@ Welcome to my professional portfolio website. This portfolio showcases a collect
 ## Projects
 
 ### Interactive Web Design - Project 1
-This project focuses on innovative web design techniques including dynamic menus and animated transitions using HTML5, CSS3, and JavaScript. View this project live [here](https://github.com/YilmazFerhat).
+This project focuses on innovative web design techniques including dynamic menus and animated transitions using HTML5, CSS3, and JavaScript. View this project live [here](https://github.com/BarisYildiz-bit).
 
 ### Advanced Functionality Integration - Project 2
-This project features complex backend functionalities integrated with an intuitive frontend, utilizing PHP, MySQL, and React. Check out this project [here](https://github.com/YilmazFerhat).
+This project features complex backend functionalities integrated with an intuitive frontend, utilizing PHP, MySQL, and React. Check out this project [here](https://github.com/BarisYildiz-bit).
 
 ## About Me
 
@@ -17,11 +17,11 @@ I am a passionate web developer specializing in both frontend and backend develo
 ## Contact Information
 
 For collaboration or inquiries, please feel free to reach out:
-- Email: [ferhat.yilmaz@my-aolcc.com](mailto:ferhat.yilmaz@my-aolcc.com)
+- Email: [ferhat.yilmaz@my-aolcc.com](mailto:Baris.Yildiz@my-aolcc.com)
 
 ## Hosting
 
-This site is hosted on GitHub Pages, showcasing my projects in a professional and accessible manner. You can visit my portfolio [here](https://github.com/YilmazFerhat).
+This site is hosted on GitHub Pages, showcasing my projects in a professional and accessible manner. You can visit my portfolio [here](https://github.com/BarisYildiz-bit).
 
 ## License
 
