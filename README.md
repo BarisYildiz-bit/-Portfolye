@@ -17,7 +17,7 @@ I am a passionate web developer specializing in both frontend and backend develo
 ## Contact Information
 
 For collaboration or inquiries, please feel free to reach out:
-- Email: [ferhat.yilmaz@my-aolcc.com](mailto:Baris.Yildiz@my-aolcc.com)
+- Email: [Baris.Yildiz@my-aolcc.com](mailto:Baris.Yildiz@my-aolcc.com)
 
 ## Hosting
 
